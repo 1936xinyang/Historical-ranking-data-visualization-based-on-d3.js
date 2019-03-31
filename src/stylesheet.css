@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @author Jannchie
  * @email jannchie@gmail.com
  * @create date 2018-05-03 08:44:46
@@ -39,7 +39,7 @@ input {
 
     fill: rgb(92, 92, 92);
     display: table-cell;
-    font-size: 60pt;
+    font-size: 20pt;
     font-weight: bold;
     font-family: "Fira Code", "Source Han Sans CN"
 }
@@ -48,7 +48,7 @@ input {
 
     fill: rgb(167, 46, 46);
     display: table-cell;
-    font-size: 90pt;
+    font-size: 20pt;
     font-weight: bold;
     font-family: "Fira Code", "Source Han Sans CN"
 }
@@ -57,21 +57,21 @@ input {
 .days {
     fill: rgb(92, 92, 92);
     font-weight: bold;
-    font-size: 55pt;
+    font-size: 25pt;
     font-family: "Fira Code", "Source Han Sans CN"
 }
 
 .topLabel {
     fill: rgb(92, 92, 92);
     font-weight: bold;
-    font-size: 40pt;
+    font-size: 20pt;
     font-family: "Fira Code", "Source Han Sans CN"
 }
 
 .top {
     fill: rgb(92, 92, 92);
     font-weight: bold;
-    font-size: 62pt;
+    font-size: 20pt;
     font-family: "Fira Code", "Source Han Sans CN"
 }
 
@@ -85,7 +85,7 @@ input {
 .barInfo {
     fill: rgb(255, 255, 255);
     font-weight: 800;
-    font-size: 24pt;
+    font-size: 20pt;
     font-family: "Fira Code", "Source Han Sans CN"
 }
 
@@ -98,7 +98,7 @@ input {
 .days {
     fill: rgb(92, 92, 92);
     font-weight: bold;
-    font-size: 40pt;
+    font-size: 25pt;
     font-family: "Fira Code", "Source Han Sans CN"
 }
 
@@ -112,7 +112,7 @@ input {
 .growth {
     fill: rgb(92, 92, 92);
     font-weight: bold;
-    font-size: 40pt;
+    font-size: 25pt;
     font-family: "Fira Code", "Source Han Sans CN"
 }
 
